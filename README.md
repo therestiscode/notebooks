@@ -5,3 +5,4 @@ Companion notebooks for [@therestiscode](https://youtube.com/@therestiscode) sho
 | # | Short | Notebook |
 |---|---|---|
 | 01 | tensor-vs-ndarray | [tensor.ipynb](01-tensor-vs-ndarray/tensor.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/therestiscode/notebooks/blob/main/01-tensor-vs-ndarray/tensor.ipynb) |
+| 02 | uint8-wrap | [brighten.ipynb](02-uint8-wrap/brighten.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/therestiscode/notebooks/blob/main/02-uint8-wrap/brighten.ipynb) |
